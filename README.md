@@ -1,2 +1,2 @@
 # ademone.github.io
-Repo with pages for the username
+Repo with pages for the username for fun
